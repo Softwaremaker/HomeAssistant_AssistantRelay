@@ -1,0 +1,3 @@
+For extension of expiry date in the GOOG OAUTH Token Type "Bearer", go to https://currentmillis.com/
+Enter the date you want it to expire, then set the millis. For example: Sat Jan 01 2028 00:00:00 would be 1830268800000
+Hence, set "expiry_date": 1830268800000
